@@ -10,7 +10,7 @@ A multi-container Docker Compose project running Nginx and Redis  together.
 ## Run
 
 ```bash
-docker compose up -d
+docker-compose up -d
 
 ```
 
